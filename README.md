@@ -4,7 +4,7 @@ argocd login localhost:8080 # Faz o login no ArgoCD
 
 argocd add cluster minikube # Adiciona um cluster ao ArgoCD
 
-argocd app create nginx-app --repo https://github.com/LuizSilva-1/kube-argoCD.git --path . --dest-server monikune --dest-namespace default
+argocd app create nginx-app --repo https://github.com/LuizSilva-1/kube-argoCD.git --path . --dest-server minikube --dest-namespace default
 
 argocd app list # Lista os aplicativos
 
