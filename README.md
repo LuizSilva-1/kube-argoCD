@@ -1,2 +1,2 @@
 # Descomplicando ArgoCD
-![image](https://github.com/LuizSilva-1/kube-argoCD/assets/108982016/f7b13b74-bf2e-47f9-a232-8cbc9ef1bc86)
+![image](https://github.com/LuizSilva-1/kube-argoCD/assets/108982016/8dfb855a-bc90-43ff-9640-2cb4cc9fda75)
